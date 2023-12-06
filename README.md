@@ -1,1 +1,1 @@
-# sample-repo2
+This is sample-repo2.
